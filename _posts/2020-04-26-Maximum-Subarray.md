@@ -10,7 +10,7 @@ xigua:
 date:       2020-04-26
 author:     小明MaxMing
 header-img: img/post-bg-coffee.jpeg
-catalog: true
+catalog: false
 tags:
     - Hash Table
     - Math
