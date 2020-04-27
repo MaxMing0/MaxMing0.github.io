@@ -49,6 +49,9 @@ description: ""
         {% if post.level == "Hard" %}
         <td><span class="label label-danger">{{ post.level }}</span></td>
         {% endif %}
+        {% if post.level == "na" %}
+        <td><span class="label label-primary">N/A</span></td>
+        {% endif %}
     </tr>
     {% endfor %}
 

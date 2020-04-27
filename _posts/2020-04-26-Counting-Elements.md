@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      LeetCode 202 Happy Number (Python)
-number:     9999
-level:      Easy
+title:      LeetCode Counting Elements (Python)
+number:     9998
+level:      na
 lcurl:      
 youtube:    ax73iAm-9Ww
 bilibili1:  //player.bilibili.com/player.html?aid=837663750&bvid=BV1Eg4y187vx&cid=175125793&page=1
@@ -12,8 +12,7 @@ author:     小明MaxMing
 header-img: img/post-bg-coffee.jpeg
 catalog: false
 tags:
-    - Hash Table
-    - Math
+    - 
 ---
 
 ### 题目
