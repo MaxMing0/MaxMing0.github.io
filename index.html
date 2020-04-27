@@ -31,8 +31,8 @@ description: ""
         <th>题解</th>
         <th>难度</th>
     </tr>
-    
-    {% for post in paginator.posts %}
+    {% assign sorted = (paginator.posts | sort: 'number') %}
+    {% for post in sorted %}
     <tr>
         <td>
             <a href="https://leetcode.com/problems/{{ post.lcurl }}"> {{ post.number }} </a>

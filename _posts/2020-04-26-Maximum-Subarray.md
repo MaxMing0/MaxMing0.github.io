@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      LeetCode 202 Maximum Subarray (Python)
+title:      LeetCode 53 Maximum Subarray (Python)
 number:     53
 level:      Easy
 lcurl:      happy-number
