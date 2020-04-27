@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      LeetCode Counting Elements (Python)
-number:     9998
+number:     9999
 level:      na
 lcurl:      
 youtube:    ax73iAm-9Ww
