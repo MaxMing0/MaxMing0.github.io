@@ -29,7 +29,9 @@ Your algorithm's runtime complexity must be in the order of O(log n).
 
 ### 解题思路
 
+和没有被rotate过的一样，使用二分的方法，我们总和考虑二分时候的左(L)右(R)端点，中点(M)和目标(T)
 
+L <= M < T, T < L <= M, M < T < L，当这三种情况出现时，移动L到M+1，其他情况移动R到M-1
 
 ### 代码
 ```python
