@@ -2,7 +2,7 @@
 layout:     post
 title:      LeetCode 278 First Bad Version (Python)
 number:     278
-level:      East
+level:      Easy
 lcurl:      first-bad-version
 youtube:    mKRS6H0tDqo
 bilibili1:  //player.bilibili.com/player.html?aid=710467698&bvid=BV1cQ4y1N7dc&cid=185573559&page=1
