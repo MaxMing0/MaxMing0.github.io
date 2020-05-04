@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      LeetCode  (Python)
+title:      LeetCode 476 Number Complement (Python)
 number:     476
 level:      Easy
 lcurl:      number-complement
