@@ -23,7 +23,7 @@ If there're duplicates in arr, count them seperately.
 
 ### 解题思路
 
-
+将数组转换成set，遍历set中的每个元素`x`，检查`x+1`是否出现在set中
 
 ### 代码
 ```python
