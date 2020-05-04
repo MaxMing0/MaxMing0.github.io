@@ -24,6 +24,7 @@ Note: You can only move either down or right at any point in time.
 ### 解题思路
 
 动态规划，每个格子可以从它上方或者左边的格子走到，所以走到这个格子的最小和就是上边和左边的两个和取较小者，并加上当前的数值
+
 第一行的每个格子，只能从左边走到，第一列的每个格子，只能从上边走到
 ```
 dp[i][j] = dp[0][j - 1] + grid[i][j] if i = 0
