@@ -33,7 +33,7 @@ For custom testing purposes you're given the binary matrix mat as input in the f
 
 ### 解题思路
 
-
+从右上角开始，遇到1向左，遇到0向下，因为只需要管遇到的1的左边的格子
 
 ### 代码
 ```python
