@@ -28,7 +28,7 @@ At the end, there is at most 1 stone left.  Return the weight of this stone (or 
 
 ### 解题思路
 
-
+使用优先队列，将石子从放到优先队列（大头）中，每次pop出来最大的两个，做差（如果非0）将绝对值加回队里中，直到结束
 
 ### 代码
 ```python
