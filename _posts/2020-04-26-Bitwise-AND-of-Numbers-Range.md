@@ -21,7 +21,9 @@ Given a range [m, n] where 0 <= m <= n <= 2147483647, return the bitwise AND of 
 
 ### 解题思路
 
+先把m和n转换成2进制，如果长度不同，则结果为0
 
+找出m和n的公共前缀，后面变成0，就是最后的结果
 
 ### 代码
 ```python
