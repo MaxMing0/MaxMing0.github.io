@@ -23,7 +23,7 @@ Given a 2d grid map of '1's (land) and '0's (water), count the number of islands
 
 ### 解题思路
 
-
+遍历这个矩阵，每次遇到1的时候意味着遇到了一个新的岛，结果加一，并从这个位置开始BSF/DFS把与他相邻的所有格子标成0，继续遍历
 
 ### 代码
 ```python
