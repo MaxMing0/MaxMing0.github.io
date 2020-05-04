@@ -21,7 +21,7 @@ Given an array of strings, group anagrams together.
 
 ### 解题思路
 
-
+将所有单词按字母序的结果作为key，原始但是作为value存到字典中，最后字典中的所有value就是最后的结果。
 
 ### 代码
 ```python
