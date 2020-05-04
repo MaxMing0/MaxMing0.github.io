@@ -25,7 +25,7 @@ Note: You may not engage in multiple transactions at the same time (i.e., you mu
 
 ### 解题思路
 
-
+贪心，如果某天的股价比前一天的高，那么就在前一天买入，并在当天卖出，不需要找每次的高点和低点
 
 ### 代码
 ```python
