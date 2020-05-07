@@ -5,7 +5,7 @@ number:     9999
 level:      na
 lcurl:      
 youtube:    2WbgNzAPZD4
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=625623119&bvid=BV17t4y11725&cid=188182378&page=1
 xigua:      
 date:       2020-05-07
 author:     小明MaxMing
@@ -31,13 +31,8 @@ Return true if and only if the nodes corresponding to the values x and y are cou
 使用BFS遍历树的每一层，将下一层所有结点放到一个set中，判断x和y是否同时出现在一层中，如果是返回True，只有一个出现返回False，都没有则继续下一层
 
 ### 代码
+
 ```python
-# Definition for a binary tree node.
-# class TreeNode:
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
 class Solution:
     def isCousins(self, root: TreeNode, x: int, y: int) -> bool:
         if root.val == x or root.val == y:
