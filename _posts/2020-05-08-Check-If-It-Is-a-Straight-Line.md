@@ -5,7 +5,7 @@ number:     1232
 level:      Easy
 lcurl:      check-if-it-is-a-straight-line
 youtube:    fiuEeBWYFJM
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=370590454&bvid=BV14Z4y1s74c&cid=188570218&page=1
 xigua:      
 date:       2020-05-08
 author:     小明MaxMing
