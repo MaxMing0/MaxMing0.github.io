@@ -2,10 +2,10 @@
 layout:     post
 title:      LeetCode 367 Valid Perfect Square (Python)
 number:     367
-level:      easy
+level:      Easy
 lcurl:      valid-perfect-square
 youtube:    TqiXE_MicWw
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=925608576&bvid=BV1DT4y1377H&cid=188982477&page=1
 xigua:      
 date:       2020-05-09
 author:     小明MaxMing
