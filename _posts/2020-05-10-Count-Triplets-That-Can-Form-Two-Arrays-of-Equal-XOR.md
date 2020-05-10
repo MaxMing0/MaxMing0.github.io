@@ -5,7 +5,7 @@ number:     1442
 level:      Medium
 lcurl:      https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
 youtube:    u70mlKtZMLU
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=200745096&bvid=BV1uz411B7HB&cid=189632924&page=1
 xigua:      
 date:       2020-05-10
 author:     小明MaxMing
