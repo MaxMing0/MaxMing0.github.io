@@ -5,7 +5,7 @@ number:     997
 level:      Easy
 lcurl:      find-the-town-judge
 youtube:    qhFHaLPjfjM
-bilibili1:  
+bilibili1:  player.bilibili.com/player.html?aid=668019412&bvid=BV1Ka4y1i7Qt&cid=189392113&page=1
 xigua:      
 date:       2020-05-10
 author:     小明MaxMing
