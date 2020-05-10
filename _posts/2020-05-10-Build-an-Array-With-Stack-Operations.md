@@ -5,7 +5,7 @@ number:     1441
 level:      Easy
 lcurl:      build-an-array-with-stack-operations
 youtube:    gee8Ce-lUzo
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=838017138&bvid=BV1Gg4y167ZD&cid=189631033&page=1
 xigua:      
 date:       2020-05-10
 author:     小明MaxMing
