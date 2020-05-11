@@ -5,7 +5,7 @@ number:     1443
 level:      Medium
 lcurl:      minimum-time-to-collect-all-apples-in-a-tree
 youtube:    3af7CQoV848
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=243192657&bvid=BV15e411W74K&cid=189640006&page=1
 xigua:      
 date:       2020-05-10
 author:     小明MaxMing
