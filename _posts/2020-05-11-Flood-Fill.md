@@ -5,7 +5,7 @@ number:     733
 level:      Easy
 lcurl:      flood-fill
 youtube:    muVS7mUeq6g
-bilibili1:  //player.bilibili.com/player.html?aid=370677462&bvid=BV1HZ4y1p7vH&cid=189782190&page=1
+bilibili1:  player.bilibili.com/player.html?aid=370677462&bvid=BV1HZ4y1p7vH&cid=189782190&page=1
 xigua:      
 date:       2020-05-11
 author:     小明MaxMing
