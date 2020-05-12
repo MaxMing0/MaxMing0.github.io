@@ -17,7 +17,7 @@ RSS: false
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 50
+paginate: 500
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -47,9 +47,9 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID:                             #生成的clientID
-  clientSecret:     #生成的clientSecret
+  enable: true    #是否开启Gitalk评论
+  clientID: e3db55a79ff1b59e164a     #生成的clientID
+  clientSecret: 2ef0b79efc90e901a99c2dc46b67e5d738ee895e    #生成的clientSecret
   repo: MaxMing0.github.io    #仓库名称
   owner: MaxMing0    #github用户名
   admin: MaxMing0
