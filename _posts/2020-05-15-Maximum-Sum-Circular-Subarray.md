@@ -5,7 +5,7 @@ number:     918
 level:      Medium
 lcurl:      maximum-sum-circular-subarray
 youtube:    KWyWBouPvCQ
-bilibili1:  
+bilibili1:  player.bilibili.com/player.html?aid=455628871&bvid=BV1c5411s7jZ&cid=191278187&page=1
 xigua:      
 date:       2020-05-15
 author:     小明MaxMing
