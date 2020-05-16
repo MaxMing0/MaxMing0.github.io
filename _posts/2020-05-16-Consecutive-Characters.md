@@ -4,7 +4,7 @@ title:      LeetCode 1446 Consecutive Characters (Python)
 number:     1446
 level:      Easy
 lcurl:      consecutive-characters
-youtube:    L3mW_MURkzA
+youtube:    -axrGlGdPl8
 bilibili1:  
 xigua:      
 date:       2020-05-16
