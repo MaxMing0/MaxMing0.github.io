@@ -5,7 +5,7 @@ number:     540
 level:      Medium
 lcurl:      single-element-in-a-sorted-array
 youtube:    H0ZWQa2k-1E
-bilibili1:  player.bilibili.com/player.html?aid=838164494&bvid=BV1Tg4y1B7Va&cid=190154460&page=1
+bilibili1:  //player.bilibili.com/player.html?aid=838164494&bvid=BV1Tg4y1B7Va&cid=190154460&page=1
 xigua:      
 date:       2020-05-12
 author:     小明MaxMing
