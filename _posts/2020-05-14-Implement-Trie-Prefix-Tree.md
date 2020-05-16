@@ -5,7 +5,7 @@ number:     208
 level:      Medium
 lcurl:      implement-trie-prefix-tree
 youtube:    vSA1_aJfYsk
-bilibili1:  player.bilibili.com/player.html?aid=583142782&bvid=BV1Zz4y1R7j8&cid=190905824&page=1
+bilibili1:  //player.bilibili.com/player.html?aid=583142782&bvid=BV1Zz4y1R7j8&cid=190905824&page=1
 xigua:      
 date:       2020-05-14
 author:     小明MaxMing
