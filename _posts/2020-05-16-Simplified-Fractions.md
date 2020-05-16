@@ -5,7 +5,7 @@ number:     1447
 level:      Medium
 lcurl:      simplified-fractions
 youtube:    M2RdBz-k0Dw
-bilibili1:  player.bilibili.com/player.html?aid=328159525&bvid=BV1aA411t7Ez&cid=191912773&page=1
+bilibili1:  //player.bilibili.com/player.html?aid=328159525&bvid=BV1aA411t7Ez&cid=191912773&page=1
 xigua:      
 date:       2020-05-16
 author:     小明MaxMing
