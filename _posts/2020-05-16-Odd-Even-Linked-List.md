@@ -5,7 +5,7 @@ number:     328
 level:      Medium
 lcurl:      odd-even-linked-list
 youtube:    lk-6nRW5hnU
-bilibili1:  
+bilibili1:  player.bilibili.com/player.html?aid=838215431&bvid=BV1ag4y1B78z&cid=191679254&page=1
 xigua:      
 date:       2020-05-16
 author:     小明MaxMing
