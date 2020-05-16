@@ -5,7 +5,7 @@ number:     1446
 level:      Easy
 lcurl:      consecutive-characters
 youtube:    -axrGlGdPl8
-bilibili1:  
+bilibili1:  player.bilibili.com/player.html?aid=968132371&bvid=BV1pp4y1Q7Rh&cid=191910508&page=1
 xigua:      
 date:       2020-05-16
 author:     小明MaxMing
