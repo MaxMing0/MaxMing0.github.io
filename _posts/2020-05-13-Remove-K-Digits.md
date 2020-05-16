@@ -5,7 +5,7 @@ number:     402
 level:      Medium
 lcurl:      remove-k-digits
 youtube:    dDJX1ZL8ZOw
-bilibili1:  player.bilibili.com/player.html?aid=413229360&bvid=BV1PV411C79X&cid=190529786&page=1
+bilibili1:  //player.bilibili.com/player.html?aid=413229360&bvid=BV1PV411C79X&cid=190529786&page=1
 xigua:      
 date:       2020-05-13
 author:     小明MaxMing
