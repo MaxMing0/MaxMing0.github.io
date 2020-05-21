@@ -28,14 +28,15 @@ dp[i][j] = min(dp[i - 1][j - 1], dp[i][j - 1], dp[i - 1][j]) + 1 if dp[i - 1][j 
 ```python
 class Solution:
     def maximalSquare(self, matrix: List[List[str]]) -> int:
-        if len(matrix) == 0:
+        m = len(matrix)
+        if m == 0:
             return 0
-        if len(matrix[0]) == 0:
+        n = len(matrix[0])
+        if n == 0:
             return 0
-        m, n = len(matrix), len(matrix[0])
-        dp1 = [0 for i in range(n + 1)]
-        dp2 = [0 for i in range(n + 1)]
         res = 0
+        dp1 = [0] * (n + 1)
+        dp2 = [0] * (n + 1)
         for i in range(1, m + 1):
             for j in range(1, n + 1):
                 if matrix[i - 1][j - 1] == "1":
@@ -44,6 +45,5 @@ class Solution:
                 else:
                     dp2[j] = 0
             dp1 = dp2[:]
-            print(dp2)
         return res * res
 ```
