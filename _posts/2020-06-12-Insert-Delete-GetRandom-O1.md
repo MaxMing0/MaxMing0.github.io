@@ -4,8 +4,8 @@ title:      LeetCode 380 Insert Delete GetRandom O(1) (Python)
 number:     380
 level:      Medium
 lcurl:      insert-delete-getrandom-o1
-youtube:    
-bilibili1:  
+youtube:    4neZY8NIylk
+bilibili1:  //player.bilibili.com/player.html?aid=838439792&bvid=BV1Fg4y1q7Ru&cid=201253042&page=1
 xigua:      
 date:       2020-06-12
 author:     小明MaxMing
