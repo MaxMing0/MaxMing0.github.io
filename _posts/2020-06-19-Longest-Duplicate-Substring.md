@@ -5,7 +5,7 @@ number:     1044
 level:      Hard
 lcurl:      longest-duplicate-substring
 youtube:    bwgJS7lKFSY
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=243588618&bvid=BV1Kv411B7a3&cid=203582216&page=1
 xigua:      
 date:       2020-06-19
 author:     小明MaxMing
