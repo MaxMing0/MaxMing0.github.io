@@ -33,8 +33,8 @@ class Solution:
     def numSub(self, s: str) -> int:
         MOD = 1000000007
         res = ct = 0
-        for i in range(len(s)):
-            if s[i] == '0':
+        for c in s:
+            if c == '0':
                 res += (1 + ct) * ct // 2
                 ct = 0
             else:
