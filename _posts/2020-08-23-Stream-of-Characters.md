@@ -5,7 +5,7 @@ number:     1032
 level:      Hard
 lcurl:      stream-of-characters
 youtube:    nlfunbuvjQY
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=926828533&bvid=BV15T4y1L7RG&cid=227941714&page=1
 xigua:      
 date:       2020-08-23
 author:     小明MaxMing
