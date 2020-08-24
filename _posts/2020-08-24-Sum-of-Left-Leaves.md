@@ -5,7 +5,7 @@ number:     404
 level:      Easy
 lcurl:      sum-of-left-leaves
 youtube:    E_fab7lAKR4
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=669283388&bvid=BV15a4y1779U&cid=228480583&page=1
 xigua:      
 date:       2020-08-24
 author:     小明MaxMing
