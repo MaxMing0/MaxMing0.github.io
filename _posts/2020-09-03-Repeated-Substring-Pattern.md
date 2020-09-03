@@ -4,8 +4,8 @@ title:      LeetCode 459 Repeated Substring Pattern (Python)
 number:     459
 level:      Easy
 lcurl:      repeated-substring-pattern
-youtube:    
-bilibili1:  
+youtube:    46FlH2Kj1LI
+bilibili1:  //player.bilibili.com/player.html?aid=626980621&bvid=BV1Yt4y1S7XZ&cid=231819303&page=1
 xigua:      
 date:       2020-09-03
 author:     小明MaxMing
