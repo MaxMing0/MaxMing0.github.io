@@ -23,7 +23,7 @@ Given a non-empty string check if it can be constructed by taking a substring of
 
 如果该字符串符合条件，那么将其重复两次，并去掉两端的字符串，一定包含该字符串
 ```
-设t = s + s，若s在t中的起始位置不为0或n，则符合条件，那么设这个其实位置为i (0<i<n),s[x:y]表示s的第x个字符到第y个字符
+设t = s + s，若s在t中的起始位置不为0或n，则符合条件，那么设这个起始位置为i (0<i<n),s[x:y]表示s的第x个字符到第y个字符
 s[0: n - 1] = t[i: n + i - 1]
 将t[i: n + i - 1]在n - 1位置分成两段
 s[0: n - i - 1] = t[i: n - 1]
