@@ -5,7 +5,7 @@ number:     1305
 level:      Medium
 lcurl:      all-elements-in-two-binary-search-trees
 youtube:    zqroKmPUgAY
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=499409091&bvid=BV1kK411N7az&cid=232482364&page=1
 xigua:      
 date:       2020-09-05
 author:     小明MaxMing
