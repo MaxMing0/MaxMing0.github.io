@@ -5,7 +5,7 @@ number:     1094
 level:      Medium
 lcurl:      car-pooling
 youtube:    Dp0cCSmzpBI
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=754718854&bvid=BV1Xk4y1k7UX&cid=237555421&page=1
 xigua:      
 date:       2020-09-21
 author:     小明MaxMing
