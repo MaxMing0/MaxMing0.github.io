@@ -31,9 +31,10 @@ For a given number N in base-10, return the complement of it's binary representa
 ### 代码
 ```python
 class Solution:
-    def findComplement(self, num: int) -> int:
+    def bitwiseComplement(self, N: int) -> int:
+        if N == 0:
+            return 1
         x = 1
-        while x <= num:
+        while x <= N:
             x <<= 1
-        return (x - 1) ^ num
-```
+        return (x - 1) ^ N```
