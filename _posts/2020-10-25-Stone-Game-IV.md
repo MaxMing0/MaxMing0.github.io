@@ -5,7 +5,7 @@ number:     1510
 level:      Hard
 lcurl:      stone-game-iv
 youtube:    AxRTy0UJ_rw
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=755123806&bvid=BV1pr4y1w7ao&cid=249559497&page=1
 xigua:      
 date:       2020-10-25
 author:     小明MaxMing
