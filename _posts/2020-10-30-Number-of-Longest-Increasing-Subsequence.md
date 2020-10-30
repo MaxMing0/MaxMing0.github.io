@@ -5,7 +5,7 @@ number:     673
 level:      Medium
 lcurl:      number-of-longest-increasing-subsequence
 youtube:    BWWVRPoDjDA
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=927555802&bvid=BV1gT4y1F7y3&cid=250921742&page=1
 xigua:      
 date:       2020-10-30
 author:     小明MaxMing
