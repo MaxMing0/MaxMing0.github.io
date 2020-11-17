@@ -5,7 +5,7 @@ number:     858
 level:      Medium
 lcurl:      mirror-reflection
 youtube:    ADLTKkx0P0w
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=245270648&bvid=BV1av411r7MW&cid=256827195&page=1
 xigua:      
 date:       2020-11-17
 author:     小明MaxMing
