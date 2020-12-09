@@ -30,6 +30,7 @@ You may assume k is always valid, 1 ≤ k ≤ BST's total elements.
 ### 代码
 ```python
 # 递归
+
 class Solution:
     def kthSmallest(self, root: TreeNode, k: int) -> int:
         def inorder(root):
@@ -46,8 +47,10 @@ class Solution:
             
         self.k = k
         return inorder(root)
-        
+```
+```python
 # 非递归
+
 class Solution:
     def kthSmallest(self, root: TreeNode, k: int) -> int:
         stack = []
