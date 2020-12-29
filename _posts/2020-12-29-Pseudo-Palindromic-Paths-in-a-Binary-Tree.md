@@ -5,7 +5,7 @@ number:     1457
 level:      Medium
 lcurl:      pseudo-palindromic-paths-in-a-binary-tree
 youtube:    vtgzY9se2EQ
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=843279485&bvid=BV1t54y1t7KK&cid=272555516&page=1
 xigua:      
 date:       2020-12-29
 author:     小明MaxMing
