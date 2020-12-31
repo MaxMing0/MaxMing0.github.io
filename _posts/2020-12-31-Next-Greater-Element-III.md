@@ -5,7 +5,7 @@ number:     556
 level:      Medium
 lcurl:      next-greater-element-iii
 youtube:    GcKJJutl7WI
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=628406665&bvid=BV19t4y167yb&cid=274126288&page=1
 xigua:      
 date:       2020-12-31
 author:     小明MaxMing
