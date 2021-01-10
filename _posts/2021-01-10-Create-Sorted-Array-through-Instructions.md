@@ -5,7 +5,7 @@ number:     1649
 level:      Hard
 lcurl:      create-sorted-array-through-instructions
 youtube:    LkiEe_ja2Ak
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=671062501&bvid=BV1ua4y1H7KK&cid=280886128&page=1
 xigua:      
 date:       2021-01-10
 author:     小明MaxMing
