@@ -5,7 +5,7 @@ number:     1679
 level:      Medium
 lcurl:      max-number-of-k-sum-pairs
 youtube:    PvB-yz_yOW4
-bilibili1:  
+bilibili1:  //player.bilibili.com/player.html?aid=628687677&bvid=BV16t4y1z7kY&cid=284097242&page=1
 xigua:      
 date:       2021-01-18
 author:     小明MaxMing
