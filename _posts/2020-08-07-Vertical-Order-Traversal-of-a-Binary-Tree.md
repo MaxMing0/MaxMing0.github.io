@@ -2,7 +2,7 @@
 layout:     post
 title:      LeetCode 987 Vertical Order Traversal of a Binary Tree (Python)
 number:     987
-level:      Medium
+level:      Hard
 lcurl:      vertical-order-traversal-of-a-binary-tree
 youtube:    5DE2otSuDsw
 bilibili1:  //player.bilibili.com/player.html?aid=371688036&bvid=BV1yZ4y1M7CL&cid=221550835&page=1
@@ -43,8 +43,6 @@ class Solution:
                 dfs(root.right, pos + 1, lvl + 1)
                 
         level = defaultdict(list)
-        # dfs(root, 0, 0)
-
         q = [(root, 0, 0)]
         while q:
             cur, pos, lvl = q.pop()
