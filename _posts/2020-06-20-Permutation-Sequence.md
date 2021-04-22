@@ -4,7 +4,7 @@ title:      LeetCode 60 Permutation Sequence (Python)
 number:     60
 level:      Medium
 lcurl:      permutation-sequence
-youtube:    https://youtu.be/yjBve27QSWQ
+youtube:    yjBve27QSWQ
 bilibili1:  //player.bilibili.com/player.html?aid=668517207&bvid=BV1Ma4y1Y7rG&cid=203913409&page=1
 xigua:      
 date:       2020-06-20
