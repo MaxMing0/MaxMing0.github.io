@@ -21,7 +21,8 @@ Given an array nums of integers, return how many of them contain an even number 
 
 ### 解题思路
 
-
+1. 转换成字符串，求长度
+2. 求每次除以10，直到0的次数
 
 ### 代码
 ```python
