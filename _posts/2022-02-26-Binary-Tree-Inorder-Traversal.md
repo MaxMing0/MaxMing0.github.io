@@ -31,7 +31,7 @@ class Solution:
              return []
         return self.inorderTraversal(root.left) + [root.val] + self.inorderTraversal(root.right)
 ```
-```
+```python
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         stack, res = [], []   
