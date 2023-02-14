@@ -12,7 +12,7 @@ author:     小明MaxMing
 header-img: img/post-bg-coffee.jpeg
 catalog: false
 tags:
-    - Two pointers
+    - Two Pointers
 ---
 
 ### 题目
