@@ -7,7 +7,7 @@ lcurl:      minimum-fuel-cost-to-report-to-the-capital
 youtube:    OURD4k15cOs
 bilibili1:  
 xigua:      
-date:       
+date:       2023-02-19
 author:     小明MaxMing
 header-img: img/post-bg-coffee.jpeg
 catalog: false
