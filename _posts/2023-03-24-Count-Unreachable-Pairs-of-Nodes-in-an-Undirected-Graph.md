@@ -3,7 +3,7 @@ layout:     post
 title:      LeetCode 2316 Count Unreachable Pairs of Nodes in an Undirected Graph (Python)
 number:     2316
 level:      Medium
-lcurl:      count-unreachable-pairs-of-nodes-in-an-undirected-graph/description
+lcurl:      count-unreachable-pairs-of-nodes-in-an-undirected-graph
 youtube:    3BnuMCHViMg
 bilibili1:  
 xigua:      
