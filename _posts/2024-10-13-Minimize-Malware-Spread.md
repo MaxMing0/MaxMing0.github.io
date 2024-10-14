@@ -7,7 +7,7 @@ lcurl:
 youtube:    
 bilibili1:  
 xigua:      
-date:       
+date:       2024-10-13
 author:     小明MaxMing
 header-img: img/post-bg-coffee.jpeg
 catalog: false
