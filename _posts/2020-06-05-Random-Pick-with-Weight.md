@@ -42,19 +42,20 @@ class Solution:
             self.sum.append(self.sum[-1] + n)
 
     def pickIndex(self) -> int:
-        # def search(n):
-        #     l, r = 0, len(self.sum)    
-        #     while l < r:
-        #         m = (l + r) // 2
-        #         if self.sum[m] <= n:
-        #             l = m + 1
-        #         else:
-        #             r = m
-        #     return l
-        # num = random.randint(0, self.sum[-1] - 1)
-        # return search(num)
-        # return bisect.bisect(self.sum, num)
         return bisect.bisect(self.sum, self.sum[-1] * random.random())
+
+    def pickIndex(self) -> int:
+        def search(n):
+            l, r = 0, len(self.sum)    
+            while l < r:
+                m = (l + r) // 2
+                if self.sum[m] <= n:
+                    l = m + 1
+                else:
+                    r = m
+            return l
+        num = random.randint(0, self.sum[-1] - 1)
+        return search(num)
 
 # Your Solution object will be instantiated and called as such:
 # obj = Solution(w)
